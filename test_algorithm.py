@@ -32,3 +32,7 @@ feat: 테스트 알고리즘 포착오류 수정1
 def calculate(x, y):
     result = x + y  ← 이 줄 추가
     return result
+
+
+----
+---
